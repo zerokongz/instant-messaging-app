@@ -1,0 +1,15 @@
+{  
+  "name": "instant-messaging-app",  
+  "version": "12.6.3",  
+  "description": "cloud的构建模块",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/instant-messaging-app"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/instant-messaging-app"  
+}
